@@ -29,7 +29,7 @@ I'm from Dhaka, Bangladesh<br><br>
 - 💼 Previously worked at <b>TechForing Ltd.</b> and <b>Astha IT</b>, contributing to projects like customer portals and HR management systems.<br>
 - 📚 I'm currently expanding my expertise in JavaScript, TypeScript, React.js, Next.js, C#, ASP.NET Core, and PostgreSQL.<br>
 - 🌱 With 4+ years of freelance experience in WordPress development, I’ve delivered 50+ projects blending design and engineering precision.<br>
-- ⚡ In my free time I watch movies and go for long drives on my bike.
+- ⚡ In my free time, I watch movies and go for long drives on my bike.
 </p>
 
 ###
