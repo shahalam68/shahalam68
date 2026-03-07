@@ -55,13 +55,13 @@ I am a driven **Software Engineer** specializing in building scalable, user-frie
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahalam68&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="170" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahalam68&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="170" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahalam68&theme=dracula" height="180" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahalam68&theme=dracula" height="180" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=shahalam68&theme=dracula&hide_border=true" height="170" alt="Streak" />
-  <img src="https://github-profile-trophy.vercel.app?username=shahalam68&theme=dracula&no-bg=true&no-frame=true&margin-w=15" height="170" alt="Trophy" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahalam68&theme=dracula" height="180" alt="General Stats" />
+  <img src="https://streak-stats.demolab.com?user=shahalam68&theme=dracula&hide_border=true" height="180" alt="Streak Stats" />
 </div>
 
 ---
