@@ -32,38 +32,23 @@ I am a driven **Software Engineer** specializing in building scalable, user-frie
 
 ### 🛠️ Technical Stack
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <b>Frontend</b>
-    </td>
-    <td align="center" width="33%">
-      <b>Backend & Database</b>
-    </td>
-    <td align="center" width="33%">
-      <b>Tools & CMS</b>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" /> React / Next.js<br/>
-      • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" /> TypeScript / JS<br/>
-      • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="20" /> Tailwind CSS<br/>
-      • <img src="https://cdn.simpleicons.org/shadcnui/black" height="20" /> Shadcn UI / MUI
-    </td>
-    <td valign="top">
-      • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20" /> Node.js / Express<br/>
-      • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="20" /> MongoDB<br/>
-      • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" /> MySQL<br/>
-      • <img src="https://cdn.simpleicons.org/reactquery/FF4154" height="20" /> TanStack Query
-    </td>
-    <td valign="top">
-      • <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/logo.png" height="20" /> Zustand (State)<br/>
-      • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="20" /> WordPress<br/>
-      • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" /> Git / GitHub
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Shadcn%20UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn UI" />
+  <img src="https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  
+  <img src="https://img.shields.io/badge/tanstack%20query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/zustand-%234ea94b.svg?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand" />
+  <img src="https://img.shields.io/badge/WordPress-%2321759b.svg?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ---
 
